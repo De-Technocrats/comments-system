@@ -31,7 +31,7 @@
 							</div>
 
 							<input type="hidden" name="parent_id" id="parent_id" value="0" />
-							<button type="submit" name="submit" id="submit" class="btn btn-danger btn-kirim mb-5">Submit</button>
+							<button type="submit" name="submit" id="submit" class="btn btn-danger mb-5">Submit</button>
 						</form>
 
 						<!-- Comment Results -->
